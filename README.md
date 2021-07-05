@@ -12,4 +12,4 @@ You should see a screen like this :
 Click 1 to play and you should see this following screen :
 ![image](https://user-images.githubusercontent.com/60614102/124470743-e8c3a900-dd93-11eb-97e2-777b4082627e.png)
 After that click any key to start and the game should begin as shown below : 
-<iframe src="https://giphy.com/embed/yWO5zqrqKqpp9kaOhN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yWO5zqrqKqpp9kaOhN">via GIPHY</a></p>
+![](https://media.giphy.com/media/yWO5zqrqKqpp9kaOhN/giphy.gif)
