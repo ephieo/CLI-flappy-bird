@@ -11,6 +11,8 @@ You should see a screen like this :
 ![image](https://user-images.githubusercontent.com/60614102/124470676-d2b5e880-dd93-11eb-99dd-411cfb429d81.png)
 Click 1 to play and you should see this following screen :
 ![image](https://user-images.githubusercontent.com/60614102/124470743-e8c3a900-dd93-11eb-97e2-777b4082627e.png)
+
+
 After that click any key to start and the game should begin as shown below : 
 
-![](https://media.giphy.com/media/yWO5zqrqKqpp9kaOhN/giphy.gif)
+![image](https://media.giphy.com/media/yWO5zqrqKqpp9kaOhN/giphy.gif)
